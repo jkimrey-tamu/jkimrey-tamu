@@ -1,8 +1,6 @@
 # James O. Kimrey, III
 
-**Enterprise IT Technologist - IODP - Texas A&M University**
-
-Iola, TX 77861
+**Assistant Director - Enterprise Application Systems - Texas A&M University**
 
 jkimrey@tamu.edu
 
@@ -10,30 +8,40 @@ Experienced Senior Information Technology Specialist with a demonstrated history
 
 ## Work Experience
 
+### Assistant Director
+
+Enterprise Application Systems (EAS) - College Station, TX
+
+October 2024 to present
+
+Responsible for helping to establish and implement the overall strategy for software application development within the EAS. This includes overseeing 5 staff responsible for developing and maintaining software and databases that support the university's core administrative processes. Providing leadership, managing technical support, directing daily IT operations, and participating in strategic planning. Additionally, contributing to IT policy development, project management, and staff professional development. Play a key role in ensuring systems function correctly and meet institutional needs.
+
 ### Enterprise IT Technologist
 
 International Ocean Discovery Program (IODP) - College Station, TX
-March 2023 to Present
+
+March 2023 to October 2024
 
 http://iodp.tamu.edu/
 
-Managing a team of 7 Developers that create and maintain applications for the Scientific Drilling community, and schedule Developers for application support onboard the ship.  Began implementing SCRUM principles with the team and department by setting up project boards in Trello with backlogs and task lists, and having daily stand-up meetings with Product Owners and Developers.  Using SCRUM to develop the iRIS project which uses LabView and C# to collect input from drill rig, GPS, navigation, and other sensors into user interfaces for the Drilling, Operations, and Scientific teams onboard the JOIDES Resolution (JR).  Also managing the Development team for the HyperScan project, which is extending our in-house Instrument Management System, written in LabView and C#, to control Hyperspectral image
-acquisition of half-round cores from expeditions.
+Managed a team of 7 Developers that created and maintained applications for the Scientific Drilling community, and scheduled Developers for application support onboard the Research Vessel JOIDES Resolution.  Began implementing SCRUM principles with the team and department by setting up project boards in Trello with backlogs and task lists, and having daily stand-up meetings with Product Owners and Developers.  Used SCRUM to develop the iRIS project which uses LabView and C# to collect input from drill rig, GPS, navigation, and other sensors into user interfaces for the Drilling, Operations, and Scientific teams onboard the JOIDES Resolution.  Managed the Development team for the HyperScan project, which extended the in-house Instrument Management System (IMS), written in LabView and C#, to control Hyperspectral image acquisition of half-round cores from expeditions.
 
-IODP operates the JOIDES Resolution, a deep sea Scientific Drilling vessel, and organizes expeditions year-round for scientific exploration under the sea floor.
+IODP operated the JOIDES Resolution, a deep sea Scientific Drilling vessel, and organized expeditions year-round for scientific exploration under the sea floor.
 
 ### IT Manager III
 
 Transportation Services - Texas A&M University - College Station, TX
+
 July 2019 to March 2023
 
 https://transport.tamu.edu/
 
 Using Team Foundation Server (TFS) to manage 3 staff developers and 3 student developers using all aspects of Agile/Scrum development (product backlog, sprints, version control, change management, build definitions, release definitions) for our suite of internal and external web applications.
 
-### Sr. IT Professional I
+### Sr. IT Professional I / Software Application Developer I
 
 Transportation Services - Texas A&M University - College Station, TX
+
 January 2010 to July 2019
 
 Using Team Foundation Server (TFS) to manage all aspects of Agile/Scrum development (product backlog, sprints, version control, change management, build definitions, release definitions) for transport.tamu.edu web site, bus routes web application, and departmental intranet. Working with operations manager to transition web architecture from tightly-coupled web page and file topology to load-balanced web servers with back-end file server.
@@ -43,6 +51,7 @@ Using Team Foundation Server (TFS) to manage all aspects of Agile/Scrum developm
 ### IT Associate
 
 Honors Programs - Texas A&M University - College Station, TX
+
 January 2008 to January 2010
 
 Managed a student worker for production of the Campus As Text ideation book for the Summer Honors Invitational Program (SHIP). ● Maintenance and development of custom SQL Server database for Aggies applying for honors scholarships and admittance to Honors Programs. Created VB modules, forms, stored procedures and views as requested by faculty & staff. ● Maintenance and development of custom MS Access database for recruitment of high school graduates. Created VB modules, forms, stored
@@ -51,11 +60,13 @@ procedures, and queries as requested by faculty & staff. ● Maintenance and dev
 ### Missionary
 
 Great Commission Ministries - Winter Park, FL
+
 August 2005 to September 2007
 
 ### Programmer Analyst II
 
 Sterling C. Evans Library - College Station, TX
+
 June 2001 to August 2005
 
 https://library.tamu.edu/
@@ -66,7 +77,7 @@ Project manager and developer for ground up development and implementation of se
 
 ## Education
 
-### Bachelor's in Computer Science
+### Bachelor's Degree in Computer Science
 
 Texas A&M University - College Station, TX
 May 2001
@@ -105,43 +116,4 @@ May 2001
 
 February 2020 to February 2024
 
-The GIAC Secure Software Programmer .NET (GSSP-NET) certification validates a practitioner's knowledge, skills, and abilities to write secure code and recognize security shortcomings in existing code. GSSP-NET certification holders have demonstrated mastery of the security knowledge and skills needed to deal with common programming errors that lead to most security problems. 
-
-Areas Covered 
-
-- .NET authentication, authorization, data validation, and encryption 
-- .NET exception handling and logging, framework security, and session management 
-- Common web and .NET application attacks, secure SDLC 
-
-Who is GSSP-.NET for? 
-
-- ASP.NET developers who want to build more secure web applications 
-- .NET framework developers 
-- Software engineers 
-- Software architects 
-- Developers who need to meet PCI compliance 
-- Application security auditors 
-- Technical project managers 
-- Senior software QA specialists 
-- Penetration testers 
-
-Requirements 
-
-- 1 proctored exam 
-- 75 questions 
-- Time limit of 3 hours 
-- Minimum Passing Score of 66% 
-
-Exam Certification Objectives & Outcome Statements 
-
-The topic areas for each exam part follow: 
-
-- .NET Authentication: The candidate will demonstrate an ability to implement secure authentication and controls in a .NET environment, as well as understanding common vulnerabilities. 
-- .NET Authorization: The candidate will demonstrate an ability to implement secure authorization in a .NET environment, as well as understanding common vulnerabilities. 
-- .NET Data Validation: The candidate will demonstrate understanding of how to secure input and output using common data validation techniques. 
-- .NET Encryption: The candidate will demonstrate understanding of .NET encryption methods and algorithms as well as how to properly encrypt sensitive information in transit and at rest. 
-- .NET Exception handling and logging: The candidate will demonstrate an understanding of the principles behind logging security-relevant events, configuration of error pages, and how to appropriately handle exceptions. 
-- .NET Framework Security: The candidate will demonstrate an understanding of the security implications of language and platform features built in to the .NET Framework. 
-- .NET Session Management: The candidate will demonstrate understanding of secure server-side and client-side session management controls, as well as common vulnerabilities and attacks. 
-- Common Web and .NET Application Attacks: The candidate will demonstrate an understanding of common web and .NET application vulnerabilities and attacks, including parameter manipulation, injection attacks, and overflows. 
-- Secure SDLC: The candidate will demonstrate an understanding of how to perform security activities, including threat modeling, as part of the systems development lifecycle (SDLC).
+The GIAC Secure Software Programmer .NET (GSSP-NET) certification validates a developer's ability to write secure code in the .NET environment and identify security weaknesses in existing code. It covers key areas such as authentication, authorization, data validation, encryption, and exception handling in .NET applications, as well as secure session management and common web application attacks. The certification is designed for professionals like ASP.NET developers, software engineers, architects, and security auditors who aim to create secure applications and meet compliance requirements. To earn the certification, candidates must pass a proctored exam with 75 questions, requiring a 66% minimum score. It ensures that holders understand both coding practices and the security implications of .NET framework features.
